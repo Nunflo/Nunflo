@@ -10,12 +10,17 @@
 
 🏫 I am a Junior at Faculty of Computers.
 
-🧑‍💻 I love using Software as a solution for every Problem.
-💻 I am a competitive programmer at fullstack.
-🧑‍🎓 I’m currently learning  Software Engineering.
-🤓 Always learning new things.
-💥 I’m currently open for a new job opportunity.
+🏫 I am a Bootcamp at Kodigo.
 
+🧑‍💻 I love using Software as a solution for every Problem.
+
+💻 I am a competitive programmer at frontend.
+
+🧑‍🎓 I’m currently learning  Software Engineering.
+
+🤓 Always learning new things.
+
+💥 I’m currently open for a new job opportunity.
 
 <br>
 
