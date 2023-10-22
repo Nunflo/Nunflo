@@ -1,4 +1,9 @@
-# 💫 About Me:
+<h1 align="center">Hi , I'm Jon Flores </h1>
+
+<br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 🏫 I am a Junior at Faculty of Computers.<br><br>🏫 I am a Bootcamp at Kodigo.<br><br>🧑‍💻 I love using Software as a solution for every Problem.<br><br>💻 I am a competitive programmer at frontend.<br><br>🧑‍🎓 I’m currently learning Software Engineering.<br><br>🤓 Always learning new things.<br><br>💥 I’m currently open for a new job opportunity.
 
 
